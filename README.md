@@ -6,7 +6,7 @@ $ pkg update && pkg upgrade
 
 $ pkg install python git -y
 
-$ git clone https://github.com/hekelpro/locked
+$ git clone https://github.com/ipansr/locked
 
 $ cd locked
 
